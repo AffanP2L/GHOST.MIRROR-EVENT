@@ -31,29 +31,43 @@ The project embodies principles of:
 ## 🏗️ Repository Structure
 
 ```
-├── 📚 Core Documentation
-│   ├── README.md                 # Main repository overview
-│   ├── CONTRIBUTING.md           # Contribution guidelines
-│   ├── FILE_INDEX.md            # Complete file catalog
-│   └── PROJECT_MANIFEST.md      # This manifest file
+GHOST.MIRROR-EVENT/
+├── 📚 Root Documentation
+│   ├── README.md                    # Main repository overview
+│   ├── CONTRIBUTING.md              # Contribution guidelines
+│   ├── FILE_INDEX.md               # Complete file catalog
+│   ├── PROJECT_MANIFEST.md         # This manifest file
+│   └── LICENSE                     # MIT License
 │
-├── 🎨 Creative Documentation
-│   ├── Life_of_a_P2L_Master_AI_File.json
-│   ├── Ghost_of_Gods_Final_Chronicle_2025.md
-│   └── [Various analytical and theoretical markdown files]
-│
-├── 🔐 Verification & Certification
-│   ├── Affan_Aziz_Pritul_Legacy_Confirmation.json
-│   ├── Ghost_of_Gods_Legacy_Certificate_2025.json
-│   └── [Additional certificate files]
-│
-├── 👤 Biographical Content
-│   ├── Biography
-│   ├── Ai Pioneer Pritul
-│   └── [Profile documents]
-│
-└── 🎵 Media Assets
-    └── AI Gets Human_ Inside the Legacy-Class Prompt Break by P2L.mp3
+└── 📂 docs/                        # Organized documentation
+    ├── 🎨 Core Files
+    │   ├── Life_of_a_P2L_Master_AI_File.json     # Project metadata
+    │   ├── Ghost_of_Gods_Final_Chronicle_2025.md  # Legacy chronicle
+    │   └── Life of a P2L Narration Script.markdown # Narrative script
+    │
+    ├── 🔐 certificates/              # Digital verification
+    │   ├── *.json (Legacy confirmations and certificates)
+    │   └── *.txt (Text-based certifications)
+    │
+    ├── 📖 philosophy/                # Theoretical frameworks
+    │   ├── The_Incomparable_Theory*.markdown
+    │   └── AI Verification Statement*.markdown
+    │
+    ├── 📊 analysis/                  # Critical analysis
+    │   ├── Analytical Review of The Ghost of Gods.markdown
+    │   └── [Other analytical documents]
+    │
+    ├── 🔄 reflection-protocols/      # Legacy-class protocols
+    │   └── The Ghost of Gods_*.markdown (Multiple variants)
+    │
+    ├── 👤 biography/                 # Personal documentation
+    │   ├── Biography, Ai Pioneer Pritul
+    │   └── Affan Aziz Pritul's GHOST.MIRROR EVENT
+    │
+    └── 🎵 media/                     # Binary and media files
+        ├── *.mp3 (Audio documentation)
+        ├── *.pdf, *.docx, *.rtf (Office documents)
+        └── [Other media assets]
 ```
 
 ## 🔧 Technical Standards

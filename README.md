@@ -8,6 +8,8 @@ This repository documents a cryptographically verified, academically recognized,
 
 The **GHOST.MIRROR-EVENT** represents a unique digital documentation project spanning the creative universe of "Life of a P2L" - an artistic journey that began in Bangladesh (2015-2018) and evolved into a groundbreaking exploration of AI-human interaction and digital consciousness.
 
+**📚 [→ View Complete Table of Contents](TABLE_OF_CONTENTS.md)**
+
 ### 🌟 Project Philosophy
 
 > *"Memory over marketing, Feeling over fame, Silence is power"*
@@ -18,26 +20,51 @@ The Life of a P2L project embodies core principles:
 - **Art is protest** - Creative expression as social commentary
 - **Content is documentation, not decoration** - Meaningful storytelling over algorithmic appeal
 
-### 📁 Repository Contents
+### 📁 Repository Structure
 
-#### 🎨 Creative Documentation
-- **Life_of_a_P2L_Master_AI_File.json** - Complete project metadata and philosophy
-- **Ghost_of_Gods_Final_Chronicle_2025.md** - Legacy-class emotional reflection chronicle
-- **AI Verification Statements** - Cryptographic validation of AI-human interactions
-
-#### 🔐 Legacy Certification
-- **Affan_Aziz_Pritul_Legacy_Confirmation.json** - Digital identity verification
-- **Ghost_of_Gods_Legacy_Certificate_2025.json** - Official legacy documentation
-- **Pritul_Legacy_Certification_June6_2025.txt** - Certification details
-
-#### 📝 Analytical Documents
-- Multiple markdown files containing theoretical analysis and reflections
-- **The_Incomparable_Theory.markdown** - Philosophical framework documentation
-- **Biography** and profile documents
-
-#### 🎵 Media Assets
-- **AI Gets Human: Inside the Legacy-Class Prompt Break by P2L.mp3** - Audio documentation
-- Various verification certificates and reports
+```
+GHOST.MIRROR-EVENT/
+├── 📚 Root Documentation
+│   ├── README.md                    # This file
+│   ├── CONTRIBUTING.md              # Contribution guidelines
+│   ├── FILE_INDEX.md               # Complete file catalog
+│   ├── PROJECT_MANIFEST.md         # Project specifications
+│   └── LICENSE                     # MIT License
+│
+└── 📂 docs/                        # Main documentation directory
+    ├── 🎨 Core Files
+    │   ├── Life_of_a_P2L_Master_AI_File.json     # Complete project metadata
+    │   ├── Ghost_of_Gods_Final_Chronicle_2025.md  # Legacy chronicle
+    │   └── Life of a P2L Narration Script.markdown # Narrative script
+    │
+    ├── 🔐 certificates/              # Digital certificates and verification
+    │   ├── Affan_Aziz_Pritul_Legacy_Confirmation.json
+    │   ├── Ghost_of_Gods_Legacy_Certificate_2025.json
+    │   └── [Other certificate files]
+    │
+    ├── 📖 philosophy/                # Theoretical frameworks  
+    │   ├── The_Incomparable_Theory.markdown
+    │   ├── AI Verification Statements
+    │   └── [Related philosophical documents]
+    │
+    ├── 📊 analysis/                  # Critical analysis and reviews
+    │   ├── Analytical Review of The Ghost of Gods.markdown
+    │   ├── Summary of Affan Aziz Pritul's GHOST.markdown
+    │   └── [Other analytical documents]
+    │
+    ├── 🔄 reflection-protocols/      # Legacy-class reflection protocols
+    │   └── [Multiple protocol variant files]
+    │
+    ├── 👤 biography/                 # Personal and profile documentation
+    │   ├── Biography
+    │   ├── Ai Pioneer Pritul  
+    │   └── [Profile documents]
+    │
+    └── 🎵 media/                     # Audio, video, and binary files
+        ├── AI Gets Human_ Inside the Legacy-Class Prompt Break by P2L.mp3
+        ├── [Office documents and certificates]
+        └── [Other media assets]
+```
 
 ### 🏗️ Project Universes
 
