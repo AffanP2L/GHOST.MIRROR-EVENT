@@ -1,0 +1,36 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+.#*
+\#*#
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archive and Backup Files
+*.backup
+*.bak
+*.orig
+
+# Log Files
+*.log
+
+# System Files
+desktop.ini
+
+# Backup of original README
+README_old.md
